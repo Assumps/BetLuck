@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sumps\\Documents\\WORKSPACE\\git\\BetLuck\\betluck.csproj": {}
+    "C:\\Users\\Remix\\Desktop\\BeterLuck\\betluck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sumps\\Documents\\WORKSPACE\\git\\BetLuck\\betluck.csproj": {
+    "C:\\Users\\Remix\\Desktop\\BeterLuck\\betluck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sumps\\Documents\\WORKSPACE\\git\\BetLuck\\betluck.csproj",
+        "projectUniqueName": "C:\\Users\\Remix\\Desktop\\BeterLuck\\betluck.csproj",
         "projectName": "betluck",
-        "projectPath": "C:\\Users\\Sumps\\Documents\\WORKSPACE\\git\\BetLuck\\betluck.csproj",
-        "packagesPath": "C:\\Users\\Sumps\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sumps\\Documents\\WORKSPACE\\git\\BetLuck\\obj\\",
+        "projectPath": "C:\\Users\\Remix\\Desktop\\BeterLuck\\betluck.csproj",
+        "packagesPath": "C:\\Users\\Remix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Remix\\Desktop\\BeterLuck\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sumps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Remix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,13 +50,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[6.0.7, )"
             }
           },
           "imports": [
@@ -73,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
